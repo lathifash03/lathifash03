@@ -1,6 +1,4 @@
 # lathifash
-get to know me
-
 ### Hi there! 👋 I'm lathifash  
 🚀 **Informatics Engineering Student | ITS Surabaya**  
 
