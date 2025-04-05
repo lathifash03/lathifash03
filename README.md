@@ -1,8 +1,8 @@
 # lathifash03
-### Hi there! 👋 I'm lathifash  
+### Hi there! 👋 I'm lathifah  
 🚀 **Informatics Engineering Student | ITS Surabaya**  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77F00&size=22&center=true&vCenter=true&lines=👩‍💻+Code+Explorer;🧠+Tech+Enthusiast;🎨+Creative+Problem+Solver;🌏+Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&width=435&lines=👩‍💻+Code+Explorer;🧠+Tech+Enthusiast;🎨+Creative+Problem+Solver)
 
 ---
 
@@ -33,8 +33,8 @@
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lathifah&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lathifah&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lathifash03&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lathifash03&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
