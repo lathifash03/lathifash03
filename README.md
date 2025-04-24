@@ -2,7 +2,7 @@
 ### Hi there! 👋 I'm lathifah  
 🚀 **Informatics Engineering Student | ITS Surabaya**  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&width=435&lines=👩‍💻+Code+Explorer;🧠+Tech+Enthusiast;🎨+Creative+Problem+Solver)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7F11&width=435&lines=👩‍💻+Code+Explorer;🧠+Tech+Enthusiast;🎨+Problem+Solver)
 
 ---
 
